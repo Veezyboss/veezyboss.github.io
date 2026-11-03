@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.brightpath.digital.library",
-        "sha256_cert_fingerprints": ["76:21:61:87:3B:F1:D3:E7:9D:75:E0:22:18:3A:8B:38:40:F6:12:A8:B6:3D:5D:8E:41:55:BD:03:30:73:6F:AD"]
-      }
-    }]
